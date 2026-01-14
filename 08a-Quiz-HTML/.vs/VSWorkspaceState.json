@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Image",
+    "\\Image\\image 2"
   ],
-  "SelectedNode": "\\téléchargement.jfif",
+  "SelectedNode": "\\Image\\téléchargement.jfif",
   "PreviewInSolutionExplorer": false
 }
